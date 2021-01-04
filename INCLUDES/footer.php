@@ -9,9 +9,9 @@
                         <!-- Nav -->
                         <nav>
                             <ul>
-                                <li><a href="/index.php">Homepage</a></li>
-                                <li><a href="/about.php">About Us</a></li>
-                                <li><a href="/services.php">Services &amp; Offers</a></li>
+                                <li><a href="/index.php">HOMEPAGE</a></li>
+                                <li><a href="/about.php">ABOUT US </a></li>
+                                <li><a href="/services.php">SERVICES &amp; Offers</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -24,11 +24,11 @@
                         <!-- Nav -->
                         <nav>
                             <ul>
-                                <li><a href="#">Our Loans</a></li>
-                                <li><a href="#">Trading &amp; Commerce</a></li>
-                                <li><a href="#">Banking &amp; Private Equity</a></li>
-                                <li><a href="#">Industrial &amp; Factory</a></li>
-                                <li><a href="#">Financial Solutions</a></li>
+                                <li><a href="/terms.php">PRIVACY POLICY</a></li>
+                                <li><a href="/COVID.php">COVID-19 UPDATE &amp; Commerce</a></li>
+                                <li><a href="/contact.php">CONTACT US &amp; Private Equity</a></li>
+                                <!-- <li><a href="#">Industrial &amp; Factory</a></li>
+                                <li><a href="#">Financial Solutions</a></li> -->
                             </ul>
                         </nav>
                     </div>

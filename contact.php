@@ -46,34 +46,7 @@ include "INCLUDES/header.php"
     <section class="contact-area section-padding-100-0">
         <div class="container">
             <div class="row">
-                <!-- Single Contact Area -->
-                <div class="col-12 col-lg-4">
-                    <div class="single-contact-area mb-100">
-                        <!-- Logo -->
-                        <!-- <a href="#" class="d-block mb-50"><img src="img/core-img/logo.png" alt=""></a> -->
-                        <p>Morbi ut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis egestas sem. Tut dapibus dui. Sed ut iaculis elit, quis varius mauris. Integer ut ultricies orci, lobortis.</p>
-                    </div>
-                </div>
-
-                <!-- Single Contact Area -->
-                <div class="col-12 col-lg-4">
-                    <div class="single-contact-area mb-100">
-                        <div class="contact-advisor">
-                            <h5>Contact an advisor</h5>
-                            
-                            <div class="single-advisor d-flex align-items-center">
-                                <div class="advisor-img">
-                                    <img src="img/bg-img/26.jpg" alt="">
-                                </div>
-                                <div class="advisor-info">
-                                    <h6></h6>
-                                    <span>Advisor</span>
-                                    <p></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+             
 
                 <!-- Single Contact Area -->
                 <div class="col-12 col-lg-4">
@@ -99,7 +72,7 @@ include "INCLUDES/header.php"
                                     </div>
                                     <div class="text">
                                         <p>+571 5800 417</p>
-                                        <span>mon-fri , 08.am - 17.pm</span>
+                                  
                                     </div>
                                 </div>
                                 <!-- Single Contact Content -->

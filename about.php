@@ -83,7 +83,7 @@ We're a member of the S&P 500 and FT Global 500. Our common and preferred stocks
                 <p>OUR ACHIEVEMENTS.</p>
                 <h2>Some Milestones</h2>
             </div>
-            <h6 class="mb-0">Public Storage Through Years, Trusted Nationwide Since 1972®.</h6>
+            <h6 class="mb-0">Gulf Self StorageThrough Years, Trusted Nationwide Since 1972®.</h6>
 
             <div class="d-flex flex-wrap align-items-center justify-content-between">
                 <!-- Single Cool Facts -->

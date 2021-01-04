@@ -9,7 +9,7 @@
                             <p>Public Storage is the leading provider of storage units for your personal, business and vehicle needs with thousands of locations nationwide. We offer a wide variety of units and sizes available with no obligation and no long-term commitment. </p>
                         </div>
                         <div class="cta-btn">
-                            <a href="/c" class="btn credit-btn box-shadow">Contact Us </a>
+                            <a href="/contact.php" class="btn credit-btn box-shadow">Contact Us </a>
                         </div>
                     </div>
                 </div>
