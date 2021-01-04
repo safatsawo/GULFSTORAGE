@@ -68,7 +68,7 @@ include "INCLUDES/header.php"
                             <p>
 Many residential moving customers choose to store household items while making the transition into a new home. If you’re moving from house to house, but your new residence isn’t quite ready, or you need some additional storage space while you sell your previous home, United can help. Our specialized storage services provide an easy-to-use, flexible solution when you’re faced with long-distance moving schedule challenges.
 
-Vault Storage
+Vault Storage: 
 If you need storage apart from an interstate move, United’s long-distance moving agents also independently provide local moving and storage services through their own businesses and brands. For local long-term storage solutions, inquire about these companies’ vault storage options.</p>
                         </div>
                     </div>
@@ -83,7 +83,7 @@ If you need storage apart from an interstate move, United’s long-distance movi
                         <div class="text">
                             <h5>Commercial Storage</h5>
                             <p>
-In addition to residential storage solutions, United provides custom moving and storage services for long-distance commercial moves. We offer a variety of storage solutions for moving your office furniture, technology, retail fixtures and trade show related displays. United can store your office items during your commercial long-distance move and then transport them according to your specifications.
+In addition to residential storage solutions, Gulf provides custom moving and storage services for long-distance commercial moves. We offer a variety of storage solutions for moving your office furniture, technology, retail fixtures and trade show related displays. Gulf can store your office items during your commercial long-distance move and then transport them according to your specifications.
 
 For more information on our commercial moving and storage solutions, please start here. If your office is changing locations or renovating its current workspace, you can also find help by contacting local moving and storage companies near you.</p>
                         </div>
@@ -101,9 +101,7 @@ For more information on our commercial moving and storage solutions, please star
                             <p>
 Gulf Self Storage understands that your company’s relocation needs are unique. We can help your company develop a corporate relocation plan that fits your organization’s needs without compromising service or quality, regardless of your company’s size.
 
-If you are an employee relocating with a lump sum, United can help streamline your corporate move so you can concentrate on your new assignment. From helping you with packing and storage to finding realtors with our CityPointe® Real Estate Rewards program, we can eliminate some of the stressful tasks that come with a corporate relocation.
-
-If you are a corporate relocation manager, United can act as a seamless extension of your relocation team, providing necessary administrative tasks and move management, allowing you to focus on other important aspects of your job. </p>
+If you are an employee relocating with a lump sum, Gulf Self Storage  can help streamline your corporate move so you can concentrate on your new assignment. From helping you with packing and storage, we can eliminate some of the stressful tasks that come with a corporate relocation.</p>
                         </div>
                     </div>
                 </div>
@@ -126,10 +124,10 @@ If you are a corporate relocation manager, United can act as a seamless extensio
                     <h2>Storage Options for Corporate Movers</h2>
                 </div>
                 <h6>
-Gulf Self Storage is fully equipped to handle many of your corporate moving-related storage needs with our short-term and long-term storage services. Are you a corporate relocation manager looking for comprehensive moving and storage solutions? United understands that some moves take a little extra time. Our storage-in-transit services are designed to help your employees as they finalize their move-in dates and plans.
+Gulf Self Storage is fully equipped to handle many of your corporate moving-related storage needs with our short-term and long-term storage services. Are you a corporate relocation manager looking for comprehensive moving and storage solutions? Gulf understands that some moves take a little extra time. Our storage-in-transit services are designed to help your employees as they finalize their move-in dates and plans.
 
 If you are an employee planning a corporate relocation and you’re still looking for your new home, or it will not be ready when you arrive, we can help with storage services.</h6>
-                <a href="#" class="btn credit-btn btn-2 box-shadow">Read More</a>
+                <a href="/contact.php" class="btn credit-btn btn-2 box-shadow">CONTACT US.</a>
             </div>
         </div>
         <!-- Special Feature Thumbnail -->
@@ -153,8 +151,8 @@ If you are an employee planning a corporate relocation and you’re still lookin
                 <h6>
 
 Protecting you when unexpected loss or damage to your belongings occurs during your move is important to us; that is why we offer our basic Full Value Protection plan to every corporate relocation manager as part of our basic corporate relocation package.
-Unless your employer has made other arrangements with United, your moving quote will include our basic Full Value Protection option, which is plenty for most long-distance household moves. Under this option, should damage or loss occur during your United move, your personal belongings will be repaired or replaced, or United may offer you other compensation up to the total amount of the shipment protection that you select. Important terms and conditions apply, so be sure to ask your United move coordinator for more details about the option selected by your company.</h6>
-                <a href="#" class="btn credit-btn box-shadow">Read More</a>
+Unless your employer has made other arrangements with Gulf, your moving quote will include our basic Full Value Protection option, which is plenty for most long-distance household moves. Under this option, should damage or loss occur during your Gulf move, your personal belongings will be repaired or replaced, or Gulf may offer you other compensation up to the total amount of the shipment protection that you select. Important terms and conditions apply, so be sure to ask your Gulf move coordinator for more details about the option selected by your company.</h6>
+                <a href="/contact.php" class="btn credit-btn box-shadow">CONTACT</a>
             </div>
         </div>
     </section>

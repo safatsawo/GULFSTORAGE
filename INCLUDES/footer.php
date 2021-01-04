@@ -52,7 +52,7 @@
                                     Copyright &copy;
                                     <script>
                                         document.write(new Date().getFullYear());
-                                    </script> All rights reserved | This website is made for business purposes </i> by AFAMAJID</a>
+                                    </script> All rights reserved | This website is made for business purposes </i> by Gulf Self Storage</a>
                                  
                             </p>
                         </div>

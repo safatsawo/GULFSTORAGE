@@ -55,11 +55,11 @@ include "INCLUDES/inheader.php"
                             <h2>About our company</h2>
                         </div>
                         <h6 class="mb-4">OUR STORY. </h6>
-                        <p class="mb-0">Since opening our first self-storage facility in 1972, we've grown to become the largest owner and operator of self-storage facilities in the world. With thousands of locations across the U.S. and Europe, and more than 170 million net rentable square feet of real estate, we're also one of the largest landlords.
+                        <p class="mb-0">Since opening our first self-storage facility in 1972, we've grown to become the largest owner and operator of self-storage facilities in the world. With thousands of locations across Colombia, the U.S. and Europe, and more than 170 million net room square feet of storage space, we're also one of the largest security Storage Unit.
 
 But size isn't everything. With our customer focus and a significant presence in major markets, we've maintained a leadership position in the self-storage industry for almost half a century.
 
-We're a member of the S&P 500 and FT Global 500. Our common and preferred stocks trade on the New York Stock Exchange.</p>
+We're a member of the S&P 500 and FT Global 500. Take the stress out of your storage – rent your storage unit in Gulf Self Storage! We have many exceptional features and services to make your experience here both convenient and efficient. We offer climate controlled storage, extra vehicle storage, moving and packing supplies for sale onsite, enhanced security and much more especially when you're out of the country for vacation, deployment, business purposes, etc.</p>
                         <a href="/contact.php" class="btn credit-btn mt-50">CONTACT</a>
                     </div>
                 </div>
@@ -83,7 +83,7 @@ We're a member of the S&P 500 and FT Global 500. Our common and preferred stocks
                 <p>OUR ACHIEVEMENTS.</p>
                 <h2>Some Milestones</h2>
             </div>
-            <h6 class="mb-0">Gulf Self StorageThrough Years, Trusted Nationwide Since 1972®.</h6>
+            <h6 class="mb-0">Gulf Self Storage Through Years, Trusted Nationwide Since 1972®.</h6>
 
             <div class="d-flex flex-wrap align-items-center justify-content-between">
                 <!-- Single Cool Facts -->

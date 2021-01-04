@@ -47,12 +47,12 @@ include "INCLUDES/inheader.php"
         <div class="container">
             <div class="row">
                 <!-- Single Contact Area -->
-                <div class="col-12 col-lg-4">
+                <div class="col-12 col-lg-9">
                     <div class="single-contact-area mb-100">
                         <!-- Logo -->
                         <!-- <a href="#" class="d-block mb-50"><img src="img/core-img/logo.png" alt=""></a> -->
-                        <p>Terms and Conditions
-Last Updated: [September 4, 2020]
+                        <h5>Terms and Conditions
+Last Updated: [September 4, 2020]</h5>
 
 
 
@@ -60,7 +60,7 @@ PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY. IT SETS FORTH THE LEGALLY BIND
 
 Introduction
 
-Welcome!  We’re glad you have chosen to engage with Gulf Self Storageusing one of our digital properties. These Terms and Conditions, including any documents, policies, and guidelines incorporated by reference (referred to collectively as the “Terms”) governs the website (www.publicstorage.com) (including both mobile and online versions) (the “Site”), including your use of interactive features, our mobile applications (each an “App”), content and/or other online services that we own and control and that post a link to these Terms (collectively, the “Service”), which are made available by Gulf Self Storage(“Gulf Self Storage”, “we”, “our” or “us”).  By using the Service, you acknowledge and accept the Service’s Privacy Policy and consent to the collection and use of your data in accordance with our Privacy Policy
+Welcome!  We’re glad you have chosen to engage with Gulf Self Storage using one of our digital properties. These Terms and Conditions, including any documents, policies, and guidelines incorporated by reference (referred to collectively as the “Terms”) governs the website (www.publicstorage.com) (including both mobile and online versions) (the “Site”), including your use of interactive features, our mobile applications (each an “App”), content and/or other online services that we own and control and that post a link to these Terms (collectively, the “Service”), which are made available by Gulf Self Storage(“Gulf Self Storage”, “we”, “our” or “us”).  By using the Service, you acknowledge and accept the Service’s Privacy Policy and consent to the collection and use of your data in accordance with our Privacy Policy
 
 By accessing or using our Service in any way you are agreeing to comply with these Terms.   In some instances, both these Terms and separate guidelines, rules, or terms of use or sale setting forth additional or different terms and/or conditions will apply to your use of the Service or to a service or product offered via the Service (in each such instance, and collectively “Additional Terms”).  These Terms do not alter in any way the Additional Terms you may have or will have with Public Storage, including the Rental Agreement for your storage unit or any other website terms and conditions with a Gulf Self Storageaffiliate. To the extent that there is any conflict between these Terms and any Additional Terms or other agreements relating to services you have purchased, the Rental Agreement for your storage unit, or online tools you use or to which you subscribe, those other Additional Terms or agreements will govern.
 
@@ -151,6 +151,7 @@ The Content contained on the Service and the Terms, policies, and descriptions t
 
 (p)    is otherwise objectionable as determined in Public Storage’s sole discretion.
 
+
 Updates to the Terms
 These Terms (or if applicable Additional Terms), in the form posted at the time of your use of the applicable services to which it applies, shall govern such use (including transactions entered during such use).  AS OUR SERVICE EVOLVES, THE TERMS AND CONDITIONS UNDER WHICH WE OFFER THE SERVICE MAY PROSPECTIVELY BE MODIFIED AND WE MAY CEASE OFFERING THE SERVICE UNDER THE TERMS OR ADDITIONAL TERMS FOR WHICH THEY WERE PREVIOUSLY OFFERED.  ACCORDINGLY, EACH TIME YOU SIGN IN TO OR OTHERWISE USE THE SERVICE YOU ARE ENTERING INTO A NEW AGREEMENT WITH US ON THE THEN APPLICABLE TERMS AND CONDITIONS AND YOU AGREE THAT WE MAY NOTIFY YOU OF OTHER TERMS BY POSTING THEM ON THE SERVICE (OR IN ANY OTHER REASONABLE MANNER OF NOTICE WHICH WE ELECT), AND THAT YOUR USE OF THE SERVICE AFTER SUCH NOTICE CONSTITUTES YOUR GOING FORWARD AGREEMENT TO THE OTHER TERMS FOR YOUR NEW USE AND TRANSACTIONS.  Therefore, you should review the posted terms of use and any applicable Additional Terms each time you use the Service (at least prior to each transaction or submission).  The Additional Terms will be effective as to new use and transactions as of the time that we post them, or such later date as may be specified in them or in other notice to you.  However, the Terms (and any applicable Additional Terms) that applied when you previously used the Service will continue to apply to such prior use (i.e., changes and additions are prospective only) unless mutually agreed.  In the event any notice to you of new, revised or additional terms is determined by a tribunal to be insufficient, the prior agreement shall continue until sufficient notice to establish a new agreement occurs.  You should frequently check the home page and the email you associated with your account for notices, and you agree that the means set forth in these Terms are all reasonable manners of providing you with notice.  You can reject any new, revised or Additional Terms by discontinuing use of the Service and related services.
 
@@ -197,7 +198,7 @@ a statement by you, made under penalty of perjury, that all the information in y
 your electronic or physical signature.
 Gulf Self Storagewill only respond to DMCA Notices that it receives by mail, email or facsimile at the addresses below:
 
-Public Storage
+Gulf Self Storage
 
 Attention: Litigation & Operations Counsel
 
@@ -205,7 +206,7 @@ Attention: Litigation & Operations Counsel
 
 Glendale, California 91201
 
-E-mail: copyright@publicstorage.com
+E-mail: Dorman@planetmail.net
 
 It is often difficult to determine if your copyright has been infringed.  Gulf Self Storagemay elect to not respond to DMCA Notices that do not substantially comply with all of the foregoing requirements, and Gulf Self Storagemay elect to remove allegedly infringing material that comes to its attention via notices that do not substantially comply with the DMCA.
 

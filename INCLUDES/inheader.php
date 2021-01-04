@@ -11,8 +11,8 @@
 
                         <!-- Top Contact Info -->
                         <div class="top-contact-info d-flex align-items-center">
-                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="Calle 57C # 50 - 51, Bloque D20 Apto 402, Paulo VI 1ra etapa, Bogota"><img src="img/core-img/placeholder.png" alt=""> <span>Calle 57C # 50 - 51, Bloque D20 Apto 402, Paulo VI 1ra etapa, Bogota</span></a>
-                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="Dorman@planetmail.net"><img src="img/core-img/message.png" alt=""> <span>Dorman@planetmail.net</span></a>
+                            <a href="/contact.php" data-toggle="tooltip" data-placement="bottom" title="Calle 57C # 50 - 51, Bloque D20 Apto 402, Paulo VI 1ra etapa, Bogota"><img src="img/core-img/placeholder.png" alt=""> <span>Calle 57C # 50 - 51, Bloque D20 Apto 402, Paulo VI 1ra etapa, Bogota</span></a>
+                            <a href="/contact.php" data-toggle="tooltip" data-placement="bottom" title="Dorman@planetmail.net"><img src="img/core-img/message.png" alt=""> <span>Dorman@planetmail.net</span></a>
                         </div>
                     </div>
                 </div>

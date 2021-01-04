@@ -34,7 +34,7 @@ include "INCLUDES/inheader.php"
                     <div class="row h-100 align-items-center justify-content-center">
                         <div class="col-12 col-lg-9">
                             <div class="welcome-text text-center">
-                                <h6 data-animation="fadeInUp" data-delay="100ms">2 years interest</h6>
+                                <!-- <h6 data-animation="fadeInUp" data-delay="100ms">2 years interest</h6> -->
                                 <h2 data-animation="fadeInUp" data-delay="300ms"> GULF <span> SELF </span>  STORAGE </h2>
                                 <p data-animation="fadeInUp" data-delay="500ms">WE'LL TREAT YOUR STUFFS LIKE IT'S OUR STUFF. </p>
                                 <a href="/contact.php" class="btn credit-btn mt-50" data-animation="fadeInUp" data-delay="700ms">CONTACT US </a>
@@ -49,13 +49,13 @@ include "INCLUDES/inheader.php"
             <!-- Single Slide -->
             <div class="single-slide bg-img">
                 <!-- Background Image-->
-                <div class="slide-bg-img bg-img bg-overlay" style="background-image: url(img/bg-img/1.jpg);"></div>
+                <div class="slide-bg-img bg-img bg-overlay" style="background-image: url(img/bg-img/room.jpg);"></div>
                 <!-- Welcome Text -->
                 <div class="container h-100">
                     <div class="row h-100 align-items-center justify-content-center">
                         <div class="col-12 col-lg-9">
                             <div class="welcome-text text-center">
-                                <h6 data-animation="fadeInUp" data-delay="100ms">2 years interest</h6>
+                                <!-- <h6 data-animation="fadeInUp" data-delay="100ms">2 years interest</h6> -->
                                 <h2 data-animation="fadeInUp" data-delay="300ms"> GULF <span> SELF </span>  STORAGE </h2>
                                 <p data-animation="fadeInUp" data-delay="500ms">WE'VE GOT EVERYTHING YOU WILL NEED TO STORE ANYTHING YOU'VE GOT.</p>
                                 <a href="/contact.php" class="btn credit-btn mt-50" data-animation="fadeInUp" data-delay="700ms">CONTACT US </a>
@@ -70,13 +70,13 @@ include "INCLUDES/inheader.php"
             <!-- Single Slide -->
             <div class="single-slide bg-img">
                 <!-- Background Image-->
-                <div class="slide-bg-img bg-img bg-overlay" style="background-image: url(img/bg-img/1.jpg);"></div>
+                <div class="slide-bg-img bg-img bg-overlay" style="background-image: url(img/bg-img/sold.jpg);"></div>
                 <!-- Welcome Text -->
                 <div class="container h-100">
                     <div class="row h-100 align-items-center justify-content-center">
                         <div class="col-12 col-lg-9">
                             <div class="welcome-text text-center">
-                                <h6 data-animation="fadeInUp" data-delay="100ms">2 years interest</h6>
+                                <!-- <h6 data-animation="fadeInUp" data-delay="100ms">2 years interest</h6> -->
                                 <h2 data-animation="fadeInUp" data-delay="300ms"> GULF <span> SELF </span>  STORAGE </h2>
                                 <p data-animation="fadeInUp" data-delay="500ms">PRIVATE SPACES AVAILABLE.</p>
                                 <a href="/contact.php" class="btn credit-btn mt-50" data-animation="fadeInUp" data-delay="700ms">CONTACT US </a>
@@ -91,13 +91,13 @@ include "INCLUDES/inheader.php"
             <!-- Single Slide -->
             <div class="single-slide bg-img">
                 <!-- Background Image-->
-                <div class="slide-bg-img bg-img bg-overlay" style="background-image: url(img/bg-img/1.jpg);"></div>
+                <div class="slide-bg-img bg-img bg-overlay" style="background-image: url(img/bg-img/soh.jpg);"></div>
                 <!-- Welcome Text -->
                 <div class="container h-100">
                     <div class="row h-100 align-items-center justify-content-center">
                         <div class="col-12 col-lg-9">
                             <div class="welcome-text text-center">
-                                <h6 data-animation="fadeInUp" data-delay="100ms">2 years interest</h6>
+                                <!-- <h6 data-animation="fadeInUp" data-delay="100ms">2 years interest</h6> -->
                                 <h2 data-animation="fadeInUp" data-delay="300ms"> GULF <span> SELF </span>  STORAGE </h2>
                                 <p data-animation="fadeInUp" data-delay="500ms">WE'VE GOT YOU COVERED.</p>
                                 <a href="/contact.php" class="btn credit-btn mt-50" data-animation="fadeInUp" data-delay="700ms">CONTACT US </a>
